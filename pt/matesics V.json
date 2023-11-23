@@ -1,0 +1,38 @@
+{
+  "PlanetEarth": [
+    {
+      "materic": "Europa",
+      "population": "9,5 milhões"
+    },
+    {
+      "materic": "Ásia",
+      "country": "China",
+      "population": "1,386 bilhão",
+      "CityCapital": "Pequim"
+    },
+    {
+      "materic": "Austrália",
+      "country": "Austrália",
+      "population": "24,6 milhões",
+      "CityCapital": "Canberra"
+    },
+    {
+      "materic": "África",
+      "country": "Egito",
+      "population": "97,55 milhões",
+      "CityCapital": "Cairo"
+    },
+    {
+      "materic": "América do Norte",
+      "country": "EUA",
+      "population": "327,2 milhões",
+      "CityCapital": "Washington"
+    },
+    {
+      "materic": "América do Sul",
+      "country": "Brasil",
+      "population": "209,3 milhões",
+      "CityCapital": "Brasília"
+    }
+  ]
+}
